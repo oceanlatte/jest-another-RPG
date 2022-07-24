@@ -12,6 +12,7 @@ This was our week 10 module project for the Trilogy Coding Bootcamp that was to 
 * Inquirer npm package
 
 ## Installation
+Clone the repo to your local machine, then: 
 > npm i
 
 ## Usage
